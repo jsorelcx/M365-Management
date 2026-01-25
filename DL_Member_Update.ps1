@@ -4,7 +4,7 @@ $DistributionListEmail = "DL@domain.com"
 # Paste your array here exactly as requested
 $NewUserList = @(
 "user@domain.com",
-"admin@domain.com",
+"admin@domain.com"
 )
 # ---------------------
 
